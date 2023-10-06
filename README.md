@@ -53,4 +53,4 @@ The full documentation for Documore can be found in the docs directory.
 
 # A little info about the project
 
-This project was from the 2022-2023 for the PPIT module, and was created by a group of 2 students. It was reuploaded due to the original repository containing sensitive information.
+This project was from 2022-2023 for the PPIT module, and was created by a group of 2 students. It was reuploaded due to the original repository containing sensitive information.
